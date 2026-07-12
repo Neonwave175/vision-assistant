@@ -1,7 +1,3 @@
-Here is your updated, fully complete Wiki documentation. I have added a brand-new section at the bottom (**Section 6: Live Integration & Sample Outputs**) containing the exact benchmark payloads from your successful local tests.
-
----
-
 # Visual Assistant Edge Server: Technical Architecture & Module Documentation
 
 The **Visual Assistant Edge Server** is an asynchronous, high-performance computer vision inference module designed to run locally on Apple Silicon (MacBook M1 Max). It acts as the computational brain for the wearable assistive system, processing two parallel operational pathways: a continuous, high-frame-rate safety guardian loop, and an on-demand, deep-context visual exploration loop.
